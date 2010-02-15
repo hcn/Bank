@@ -20,7 +20,6 @@ public class Bank extends TestCase {
 	private  Konto marius;
 
 	public static void main(String[] args) {
-
 		Bank tester=new Bank();
 		tester.doit();
 	}
